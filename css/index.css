@@ -1,9 +1,6 @@
-img {
+img{
     cursor: pointer;
 }
-
-h1 {
-    background-color: black;
-    color: white;
-    font-size: 2em;
+h2{
+    background-color: darkorange;
 }
